@@ -44,13 +44,7 @@ This project implements a solution for navigating a 2D maze using the Breadth-Fi
 ### `plot_maze_with_path(maze, start, goal, path)`
 - Visualizes the maze with the shortest path overlaid.
 
-## Example
-Input Maze:
-![Maze](maze.png)
 
-Output:
-The BFS algorithm computes the shortest path from the start to the goal, and the result is visualized as:
-![Maze Solution](maze_solution_visualization.png)
 
 ## References
 - [Python Documentation](https://docs.python.org/3/)
